@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909638580389",
+    "project_id": "cghostel-82378",
+    "storage_bucket": "cghostel-82378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909638580389:android:c0bef6f4b1e5c9a9ddf54c",
+        "android_client_info": {
+          "package_name": "com.example.cg_hostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909638580389-201nli71s6spm4bn4ve8vhevn4ve2r0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiCMJ_zVXHoFEEzcbgjtPfwr6uWYPZj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909638580389-201nli71s6spm4bn4ve8vhevn4ve2r0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
