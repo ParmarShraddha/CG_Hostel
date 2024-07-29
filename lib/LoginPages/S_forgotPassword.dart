@@ -31,7 +31,7 @@ class _forgotPasswordScreenState extends State<forgotPasswordScreen> {
             keyboardType: TextInputType.emailAddress,
             controller: emailController,
             decoration: InputDecoration(
-              label: const Text('EMAILS'),
+              label: const Text('Emails'),
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(11),
               ),
